@@ -8,6 +8,7 @@ The skeleton weight map is calculated using the algorithm in 'Bounded Biharmonic
 The LBS (Linear Blending Skinning) is accelerated by CUDA. 
 
 Final result:
+
 <img src="result/res.gif" width="60%">
 
 ### Installing 
